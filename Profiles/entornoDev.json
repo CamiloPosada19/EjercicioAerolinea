@@ -1,0 +1,11 @@
+{
+"envPre":{
+    "weburi": "https://www.google.es/"
+},
+
+"envPro":{
+    "env":"https://tickets.vueling.com/",
+    "uriVueling":"https://tickets.vueling.com/"
+}
+
+}
